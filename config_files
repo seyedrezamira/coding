@@ -1,0 +1,12 @@
+interface g0/0
+   no shutdown
+   switchport mode access
+   switchport access vlan 10
+
+interface g0/1
+   no shutdown
+   switchport mode access
+   switchport access vlan 11
+
+   
+   
